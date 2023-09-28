@@ -1,0 +1,23 @@
+[
+  {
+    "image": 
+    "https://m.media-amazon.com/images/I/51LTsgz6BQL._SY445_SX342_.jpg",
+    "title": "Traitors Gate",
+    "publisher": "Jeffrey Archer",
+    "price" :"50"
+  },
+  {
+    "image":
+     "https://m.media-amazon.com/images/I/71sSFnSWN2L._SY466_.jpg",
+    "title": "Kashi: Secret Of The Black Temple",
+    "publisher": "Vineet Bajpai",
+    "price" :"100"
+  },
+  {
+    "image":
+     "https://m.media-amazon.com/images/I/A1NQCPdK9UL._SY342_.jpg",
+    "title": "Mahagatha: 100 Tales from the Puranas",
+    "publisher": "Satyarth Nayak",
+    "price" :"200"
+  }
+]
